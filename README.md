@@ -1,0 +1,2 @@
+# simple-http-server
+Class project in Network programming subject at faculty of science. this is a python code for simple HTTP server and its functions in dealing with the requests, i did different versions but all with pythons because it safes a lot of lines of code specially in network programming. you can implement your own with any language you want. the different versions in nothing big but all about using a built-in functions or implement all the functions needed. i hope you enjoy that. try with your own language and make it open source :)
